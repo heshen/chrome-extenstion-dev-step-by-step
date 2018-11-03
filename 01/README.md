@@ -38,6 +38,8 @@ chrome://extensions/
 点击 "加载已解压的扩展程序" 打开文件选择 01目录
 
 ![Image text](../imgs/02.png)
+![Image text](../imgs/04.png)
+
 
 浏览器插件加载完，显示如图：
 
