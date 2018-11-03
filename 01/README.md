@@ -52,6 +52,7 @@ name 必须属性
 ```
 
 #### version 必选
+注意： version在打包完插件的时候，根据version判断插件是否需要更新。
 ```angular2html
 Required value 'version' is missing or invalid. It must be between 1-4 dot-separated integers each between 0 and 65536.
 
@@ -71,6 +72,7 @@ Invalid value for 'manifest_version'. Must be an integer greater than zero.
 
 ```
 #### manifest_version 必选
+
 ```angular2html
 "manifest_version": 2,
 

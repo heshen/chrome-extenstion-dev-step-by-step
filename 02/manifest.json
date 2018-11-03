@@ -1,0 +1,20 @@
+{
+  // 清单文件的版本，这个必须写，而且必须是2
+  "manifest_version": 100,
+  // 插件的名称
+  "name": "chrome-extension-dev-step-by-step",
+  // 插件的版本
+  "version": "1.0.0",
+  // 插件描述
+  "description": "Heshen浏览器插件入门教程02",
+  "icons": {
+    "16": "img/icon.png",
+    "48": "img/icon.png",
+    "128": "img/icon.png"
+  },
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "img/popup.png"
+  }
+
+}
