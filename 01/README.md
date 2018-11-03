@@ -22,7 +22,7 @@ chrome 插件，由浅入深，从最基本的功能开始开发
   // 插件的版本
   "version": "1.0.0",
   // 插件描述
-  "description": "浏览器插件入门教程"
+  "description": "Heshen浏览器插件入门教程"
 
 }
 ```
