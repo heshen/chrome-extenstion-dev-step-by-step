@@ -1,0 +1,11 @@
+{
+  // 清单文件的版本，这个必须写，而且必须是2
+  "manifest_version": 100,
+  // 插件的名称
+  "name": "chrome-extension-dev-step-by-step",
+  // 插件的版本
+  "version": "1.0.0",
+  // 插件描述
+  "description": "浏览器插件入门教程"
+
+}
