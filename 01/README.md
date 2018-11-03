@@ -8,8 +8,8 @@ chrome extension plugin guide step by step，Chrome浏览器扩展开发入门�
 # 说明：
 chrome 插件，由浅入深，从最基本的功能开始开发
 
-01
-初始功能，没有任何功能，搭建个扩展包的基本架子
+# 01 
+## 初始功能，没有任何功能，搭建个扩展包的基本架子
 最简单，只需要一个manifest.json文件就可以了。
 
 如下即可：
