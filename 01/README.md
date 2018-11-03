@@ -33,7 +33,7 @@ chrome://extensions/
 ```
 
 打开开发者模式开关，
-           n2b2nbnt55![Image text](../imgs/01.png)
+![Image text](../imgs/01.png)
 
 点击 "加载已解压的扩展程序" 打开文件选择 01目录
 
